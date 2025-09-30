@@ -2,7 +2,7 @@ registrando = True
 
 viviana, constanza, jennifer = 0, 0, 0
 total_votos = 0
-eliminada = ""
+eliminada, votos_eliminada = "", 0
 
 while registrando:
   cant_votos = int(input("Cantidad de votos: "))
@@ -16,9 +16,11 @@ while registrando:
       elif voto_name == "constanza": constanza += cant_votos
       elif voto_name == "jennifer": jennifer += cant_votos
 
-      if viviana > (constanza and jennifer): eliminada = "viviana"
-      elif constanza > (viviana and jennifer): eliminada = "constanza"
-      elif jennifer > (viviana and constanza): eliminada = "jennifer"
+      eliminada, votos_eliminada = "viviana", viviana
+      if constanza > votos_eliminada:
+        mayor_votada, cantidad_mayor_votada = "constanza", constanza
+      if jennifer > votos_eliminada:
+        mayor_votada, cantidad_mayor_votada = "jennifer", jennifer
 
       total_votos += cant_votos
     else:
