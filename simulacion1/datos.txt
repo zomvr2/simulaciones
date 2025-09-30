@@ -1,0 +1,38 @@
+America,5
+Chile,2449,17,156,8
+Estados Unidos,186633,327,6913,3833
+Canadá,8464,38,1171,95
+Brasil,5717,212,127,201
+Ecuador,1966,17,3,62
+Europa,19
+Italia,105792,63,15729,12428
+España,95923,50,19259,8464
+Alemania,70985,82,7635,713
+Francia,51487,68,7882,3516
+Reino Unido,25150,65,135,1808
+Suiza,16597,7,1823,432
+Turquía,13531,84,243,214
+Bélgica,12775,10,1696,705
+Países Bajos,12595,16,0,1039
+Austria,10088,8,1095,128
+Portugal,7443,11,43,160
+Noruega,4599,5,0,36
+Suecia,4435,10,16,180
+Chequia,3257,11,45,31
+Irlanda,2910,5,5,54
+Dinamarca,2815,6,0,90
+Luxemburgo,1988,1,40,22
+Rumanía,2245,22,220,82
+Polonia,2215,38,35,32
+Asia,11
+República Popular China,81518,1382,76052,3305
+Irán,44606,81,14656,2898
+Corea del Sur,9786,51,5408,162
+Israel,4831,11,163,17
+Malasia,2766,33,537,43
+Rusia,2337,146,121,17
+Japón,1953,130,408,56
+Pakistán,1914,213,58,26
+Tailandia,1651,69,342,10
+Arabia Saudita,1563,28,165,10
+Filipinas,2084,104,49,88
