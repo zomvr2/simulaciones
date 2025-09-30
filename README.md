@@ -1,6 +1,4 @@
-# Simulaciones de Prueba - Universidad
-
-Este repositorio contiene simulaciones y ejercicios prácticos desarrollados como parte de las pruebas académicas de programación en la universidad.
+# Simulaciones de Prueba
 
 ## Estructura del Proyecto
 
